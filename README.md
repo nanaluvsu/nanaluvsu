@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Wannakry</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/metamorf0ses" target="blank"><img src="https://img.shields.io/twitter/follow/metamorf0ses?logo=twitter&style=for-the-badge" alt="metamorf0ses" /></a> </p>
+<p align="left"> <a href="https://twitter.com/godfistsvicide" target="blank"><img src="https://img.shields.io/twitter/follow/godfistsvicide?logo=twitter&style=for-the-badge" alt="godfistsvicide" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, PHP**
 
