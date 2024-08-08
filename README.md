@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davmac606" alt="davmac606" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and Python**
+- 🌱 I’m currently learning **Rust and Tauri**
 
-- 💬 Ask me about **CS(C#)**
+- 💬 Ask me about **Rust**
 
 - 📫 How to reach me **worksender053@gmail.com**
 
