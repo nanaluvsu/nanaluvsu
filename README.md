@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davmac606" alt="davmac606" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/puella1nsomnio" target="blank"><img src="https://img.shields.io/twitter/follow/puella1nsomnio?logo=twitter&style=for-the-badge" alt="puella1nsomnio" /></a> </p>
+
 
 - I'm working in **Commandee.**
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/puella1nsomnio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puella1nsomnio" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/puella1nsomnio" target="blank"><img src="https://img.shields.io/twitter/follow/puella1nsomnio?logo=twitter&style=for-the-badge" alt="puella1nsomnio" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
