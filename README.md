@@ -7,9 +7,7 @@
 
 - I'm working in **Commandee.**
 
-- 🌱 I’m currently learning **Rust and Tauri**
-
-- 💬 Ask me about **Rust.**
+- 🌱 I’m currently learning **Rust,Tauri and Fastify**.
 
 - 📫 How to reach me **worksender053@gmail.com**
 
